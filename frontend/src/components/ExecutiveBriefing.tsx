@@ -65,7 +65,7 @@ export default function ExecutiveBriefing({ onViewAnalytics }: Props) {
       // no calculation). Then feed it into the SAME assess() path Single
       // Event uses, guaranteeing identical sub-values.
       try {
-        const r = await fetch('http://localhost:8000/api/briefing/example-event')
+        const r = await fetch('https://eventready-ai.onrender.com/api/briefing/example-event')
         if (!r.ok) throw new Error(`selector failed (${r.status})`)
         const ident = await r.json()
         if (cancelled || !ident.available) return

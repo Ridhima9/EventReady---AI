@@ -8,7 +8,6 @@ import SimilarEventsList from './SimilarEventsList'
 import SpatialMatrix from './SpatialMatrix'
 import ScenarioComparison from './ScenarioComparison'
 import LogOutcomeButtons from './LogOutcomeButtons'
-import EventMap from './EventMap'
 import DeploymentCard from './DeploymentCard'
 import CongestionBadge from './CongestionBadge'
 
@@ -131,20 +130,17 @@ export default function ResultCard({ result, form, onReset, onResult, commandEve
             confidenceNote={result.confidence_note}
           />
         </div>
-      </div>
+        </div>     {/* closes md:grid-cols-[260px_1fr] */}
+        <div className="mt-5 rounded-xl border border-slate-200 bg-white p-5">
+          <h3 className="font-semibold text-slate-800">
+            📍 Corridor Snapshot
+          </h3>
 
-      {/* Mappls Map Integration (Priority 2) */}
-      <div className="mt-5">
-        <EventMap
-          lat={result.corridor_geo?.lat ?? 12.9716}
-          lng={result.corridor_geo?.lng ?? 77.5946}
-          diversion={result.corridor_geo?.diversion ?? []}
-          approximate_location={result.corridor_geo?.approximate_location}
-          diversionRoutes={result.diversion_routes?.map((r) => ({
-            name: r.name,
-            path: r.path ?? [],
-          }))}
-        />
+          <div className="mt-3 rounded-lg bg-slate-50 p-4 text-sm text-slate-600">
+            <p><strong>Corridor:</strong> {form.corridor}</p>
+            <p><strong>Junction:</strong> {form.junction}</p>
+            <p><strong>Diversion routes available:</strong> {result.diversion_routes?.length ?? 0}</p>
+        </div>
       </div>
 
       <div className="mt-5 space-y-5">
