@@ -1,0 +1,1766 @@
+{
+  "17th Mn 1st Crs Aishwarya Stores Jn": {
+    "lat": 12.9250436,
+    "lng": 77.6336263,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "27th Cross Jayanagar(Ganapathi Temple)": {
+    "lat": 12.9317517,
+    "lng": 77.5797388,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "28thMainJayanagarJunc": {
+    "lat": 12.91684515,
+    "lng": 77.5950819,
+    "max_distance_km": 0.18943103609522033,
+    "approximate_location": false
+  },
+  "29thMainRdBTM LayoutJunc": {
+    "lat": 12.9162395,
+    "lng": 77.6153012,
+    "max_distance_km": 0.4005174348067864,
+    "approximate_location": false
+  },
+  "5thMainHSR": {
+    "lat": 12.9162053,
+    "lng": 77.6311916,
+    "max_distance_km": 0.18385701517918115,
+    "approximate_location": false
+  },
+  "5thMainRPC Layout-Vijayanagar": {
+    "lat": 12.9660024,
+    "lng": 77.5353515,
+    "max_distance_km": 0.10407159596299054,
+    "approximate_location": false
+  },
+  "A S CharStreet-MysoreRdJunc": {
+    "lat": 12.9645367,
+    "lng": 77.57359,
+    "max_distance_km": 0.18284643225619018,
+    "approximate_location": false
+  },
+  "ASC Junction": {
+    "lat": 12.9668138,
+    "lng": 77.6205865,
+    "max_distance_km": 0.1431445829055079,
+    "approximate_location": false
+  },
+  "AdugodiJunc": {
+    "lat": 12.942809950000001,
+    "lng": 77.60780145000001,
+    "max_distance_km": 0.16822538441721288,
+    "approximate_location": false
+  },
+  "AgaraJunction": {
+    "lat": 12.92457375,
+    "lng": 77.64957634999999,
+    "max_distance_km": 0.5370620348300451,
+    "approximate_location": false
+  },
+  "AnandRaoJunction": {
+    "lat": 12.9809017,
+    "lng": 77.573705,
+    "max_distance_km": 0.2850974307983497,
+    "approximate_location": false
+  },
+  "AnepalyaJunc": {
+    "lat": 12.9519068,
+    "lng": 77.6053748,
+    "max_distance_km": 0.15554252365844073,
+    "approximate_location": false
+  },
+  "AnilKumbleCircle": {
+    "lat": 12.9763755,
+    "lng": 77.6017038,
+    "max_distance_km": 0.12280826198818563,
+    "approximate_location": false
+  },
+  "AnjaneyaTempleJunc": {
+    "lat": 12.9814749,
+    "lng": 77.6310739,
+    "max_distance_km": 0.08233070937204304,
+    "approximate_location": false
+  },
+  "ArakereGateJunc": {
+    "lat": 12.8904183,
+    "lng": 77.5978429,
+    "max_distance_km": 0.4575707257213658,
+    "approximate_location": false
+  },
+  "Arbindo Circle": {
+    "lat": 12.91704115,
+    "lng": 77.58586095,
+    "max_distance_km": 0.4058723486655115,
+    "approximate_location": false
+  },
+  "Arts&CraftsCircle": {
+    "lat": 12.9753296,
+    "lng": 77.6073261,
+    "max_distance_km": 0.01270144272911941,
+    "approximate_location": false
+  },
+  "AshirwadamCircle": {
+    "lat": 12.9706591,
+    "lng": 77.6040613,
+    "max_distance_km": 0.2539737854549467,
+    "approximate_location": false
+  },
+  "Ashoknagar Junction(ShoolayCircle)": {
+    "lat": 12.96634985,
+    "lng": 77.60674215,
+    "max_distance_km": 0.2349390096821504,
+    "approximate_location": false
+  },
+  "AttiguppeCircleJunction": {
+    "lat": 12.9621302,
+    "lng": 77.5335461,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "AyyappaTempleJunc": {
+    "lat": 12.9238208,
+    "lng": 77.6186665,
+    "max_distance_km": 0.4727063317025685,
+    "approximate_location": false
+  },
+  "BDA Junctio-Koramangala": {
+    "lat": 12.931490499999999,
+    "lng": 77.62267944999999,
+    "max_distance_km": 0.04508559796050786,
+    "approximate_location": false
+  },
+  "BEL Circle": {
+    "lat": 13.0439997,
+    "lng": 77.5564883,
+    "max_distance_km": 0.42627094702629803,
+    "approximate_location": false
+  },
+  "BEML GateJunc(SuranjandasRd)": {
+    "lat": 12.9692543,
+    "lng": 77.65860705,
+    "max_distance_km": 0.2542724616145734,
+    "approximate_location": false
+  },
+  "BHEL Gate": {
+    "lat": 12.8461033,
+    "lng": 77.6589267,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "BM ShriJunc(CMH-100FtRd)Junc": {
+    "lat": 12.9783724,
+    "lng": 77.640885,
+    "max_distance_km": 0.15059100355282592,
+    "approximate_location": false
+  },
+  "BMTCJunction-K H Road": {
+    "lat": 12.9568493,
+    "lng": 77.59249002,
+    "max_distance_km": 0.3963926690841982,
+    "approximate_location": false
+  },
+  "BTM16thMain-ORR Junc": {
+    "lat": 12.916427800000001,
+    "lng": 77.60972885,
+    "max_distance_km": 0.41985599524552747,
+    "approximate_location": false
+  },
+  "BagalakunteCrossJunction": {
+    "lat": 13.0599505,
+    "lng": 77.5068564,
+    "max_distance_km": 0.008012360951027832,
+    "approximate_location": false
+  },
+  "BagalurCrossJunc": {
+    "lat": 13.1219633,
+    "lng": 77.6109722,
+    "max_distance_km": 0.492141662667987,
+    "approximate_location": false
+  },
+  "Bamboobazar(Shivajinagar)": {
+    "lat": 12.9930158,
+    "lng": 77.60516129999999,
+    "max_distance_km": 0.05939036933143479,
+    "approximate_location": false
+  },
+  "BanashankariBusStandJunc": {
+    "lat": 12.9168591,
+    "lng": 77.5727067,
+    "max_distance_km": 0.35565298870591183,
+    "approximate_location": false
+  },
+  "BangaloreBodyBuildersJunc": {
+    "lat": 12.9590142,
+    "lng": 77.5555818,
+    "max_distance_km": 0.21600712125617522,
+    "approximate_location": false
+  },
+  "Basappa Circle Junction": {
+    "lat": 12.9567016,
+    "lng": 77.5771049,
+    "max_distance_km": 0.21849546697880678,
+    "approximate_location": false
+  },
+  "BasavamantapaJunc-Dr RajkumarRd": {
+    "lat": 12.9802019,
+    "lng": 77.55618905,
+    "max_distance_km": 0.06893065132300942,
+    "approximate_location": false
+  },
+  "BasaweshwaraCircle": {
+    "lat": 12.9843829,
+    "lng": 77.5882441,
+    "max_distance_km": 0.2143553758884616,
+    "approximate_location": false
+  },
+  "Basveshwarnagar 8th main Junction": {
+    "lat": 12.99274321,
+    "lng": 77.53414506,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "Batrayanapura(Amrutahalli)Junction": {
+    "lat": 13.067379899999999,
+    "lng": 77.59301121,
+    "max_distance_km": 0.4813864062363456,
+    "approximate_location": false
+  },
+  "BegumMahalJunc": {
+    "lat": 12.97595565,
+    "lng": 77.6200267,
+    "max_distance_km": 0.3269617920494795,
+    "approximate_location": false
+  },
+  "Bellandur Junction, Outer ring road": {
+    "lat": 12.9267035,
+    "lng": 77.6784255,
+    "max_distance_km": 0.2314926333585468,
+    "approximate_location": false
+  },
+  "BhadrappaLayout": {
+    "lat": 13.0466962,
+    "lng": 77.57735149999999,
+    "max_distance_km": 0.20039744647922422,
+    "approximate_location": false
+  },
+  "BhashyamCircle": {
+    "lat": 12.9849653,
+    "lng": 77.5547537,
+    "max_distance_km": 0.2442877546937384,
+    "approximate_location": false
+  },
+  "BhashyamCircle-SadashivNagar": {
+    "lat": 13.00662905,
+    "lng": 77.5792173,
+    "max_distance_km": 0.29350155574637854,
+    "approximate_location": false
+  },
+  "BigBazaar(Whitefield)Junc": {
+    "lat": 12.9881194,
+    "lng": 77.73353005,
+    "max_distance_km": 0.3906992157972839,
+    "approximate_location": false
+  },
+  "BigBazaarJunction(OldMadrasRd)": {
+    "lat": 12.991321150000001,
+    "lng": 77.65758055,
+    "max_distance_km": 0.4620644095495724,
+    "approximate_location": false
+  },
+  "BilekahalliJunc": {
+    "lat": 12.89996565,
+    "lng": 77.60092945,
+    "max_distance_km": 0.4924235824246857,
+    "approximate_location": false
+  },
+  "BinnyMillJunction": {
+    "lat": 12.9700048,
+    "lng": 77.5679993,
+    "max_distance_km": 0.2687481094367495,
+    "approximate_location": false
+  },
+  "BiryandCircle": {
+    "lat": 12.9641029,
+    "lng": 77.5701763,
+    "max_distance_km": 0.0625241635837824,
+    "approximate_location": false
+  },
+  "BloodBankCircle": {
+    "lat": 12.9622758,
+    "lng": 77.5945534,
+    "max_distance_km": 0.314928141277264,
+    "approximate_location": false
+  },
+  "Bommanahalli": {
+    "lat": 12.906897449999999,
+    "lng": 77.62806384999999,
+    "max_distance_km": 0.47591138334433963,
+    "approximate_location": false
+  },
+  "BrigadeMillenium": {
+    "lat": 12.8933772,
+    "lng": 77.5851856,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "BucheryJunction": {
+    "lat": 12.9514566,
+    "lng": 77.621369,
+    "max_distance_km": 0.4249297711655425,
+    "approximate_location": false
+  },
+  "CID-CarltonHouseJunc": {
+    "lat": 12.9801916,
+    "lng": 77.5860983,
+    "max_distance_km": 0.23529508221615686,
+    "approximate_location": false
+  },
+  "CIL CrossJunction-JayamahalRd": {
+    "lat": 13.00954035,
+    "lng": 77.5914761,
+    "max_distance_km": 0.36649311444687005,
+    "approximate_location": false
+  },
+  "CMH Rd-AdarshTheaterJunc": {
+    "lat": 12.9783026,
+    "lng": 77.6287561,
+    "max_distance_km": 0.01453406199642853,
+    "approximate_location": false
+  },
+  "CMP GateJunc": {
+    "lat": 12.957700200000001,
+    "lng": 77.60594855,
+    "max_distance_km": 0.30201422828506364,
+    "approximate_location": false
+  },
+  "CashPharmacyJunction": {
+    "lat": 12.9652497,
+    "lng": 77.5997413,
+    "max_distance_km": 0.26230883195453875,
+    "approximate_location": false
+  },
+  "ChandraLayoutJunc-nearWaterTank": {
+    "lat": 12.960020400000001,
+    "lng": 77.52715265,
+    "max_distance_km": 0.11506215268740724,
+    "approximate_location": false
+  },
+  "ChandrikaJunction": {
+    "lat": 12.99138545,
+    "lng": 77.59245085,
+    "max_distance_km": 0.14540606724814611,
+    "approximate_location": false
+  },
+  "ChaudrayaCircle/UdayaTVCircle(CantonmentJunc)": {
+    "lat": 12.9935392,
+    "lng": 77.5955639,
+    "max_distance_km": 0.29255831975640656,
+    "approximate_location": false
+  },
+  "Chokasandra (Tumkur road)": {
+    "lat": 13.042341650000001,
+    "lng": 77.5148761,
+    "max_distance_km": 0.2618370621095854,
+    "approximate_location": false
+  },
+  "CholurpalyaJunction(MagadiRd)": {
+    "lat": 12.973764150000001,
+    "lng": 77.5500964,
+    "max_distance_km": 0.012067006867425817,
+    "approximate_location": false
+  },
+  "CoffeeBoardJunc": {
+    "lat": 12.98326395,
+    "lng": 77.5957836,
+    "max_distance_km": 0.2150842472056084,
+    "approximate_location": false
+  },
+  "ColesParkJunc": {
+    "lat": 12.9928238,
+    "lng": 77.6096432,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "CommandoHospitalJunc": {
+    "lat": 12.966361849999998,
+    "lng": 77.6244462,
+    "max_distance_km": 0.1462608648155009,
+    "approximate_location": false
+  },
+  "D'SouzaCircle": {
+    "lat": 12.967026449999999,
+    "lng": 77.61076915000001,
+    "max_distance_km": 0.09889363036223645,
+    "approximate_location": false
+  },
+  "DMRoadJunc(Basavangudi)": {
+    "lat": 12.943615,
+    "lng": 77.5722,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "DairyCircle": {
+    "lat": 12.936683,
+    "lng": 77.60281,
+    "max_distance_km": 0.25690804714261434,
+    "approximate_location": false
+  },
+  "Delmia-Jayanagar": {
+    "lat": 12.9063895,
+    "lng": 77.5944581,
+    "max_distance_km": 0.27908612413978817,
+    "approximate_location": false
+  },
+  "Devanahalli new bus stand": {
+    "lat": 13.2483559,
+    "lng": 77.7156178,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "DevanahalliCrossJunc": {
+    "lat": 13.24167865,
+    "lng": 77.70356475,
+    "max_distance_km": 0.15731876341005296,
+    "approximate_location": false
+  },
+  "DevangaHostelJunction": {
+    "lat": 12.963242,
+    "lng": 77.5892379,
+    "max_distance_km": 0.12017249244082659,
+    "approximate_location": false
+  },
+  "Devasandra(k r puram)": {
+    "lat": 13.0096311,
+    "lng": 77.6970983,
+    "max_distance_km": 0.6251951533372501,
+    "approximate_location": false
+  },
+  "DevegowdaPetrolBunkJunc": {
+    "lat": 12.92073005,
+    "lng": 77.56126234999999,
+    "max_distance_km": 0.1549704896901905,
+    "approximate_location": false
+  },
+  "Deverabeesanahalli-ORR Junc": {
+    "lat": 12.9310883,
+    "lng": 77.6863341,
+    "max_distance_km": 0.6078437642323334,
+    "approximate_location": false
+  },
+  "DhobiGhatJunc": {
+    "lat": 12.98646261,
+    "lng": 77.5502535,
+    "max_distance_km": 0.21175850635262877,
+    "approximate_location": false
+  },
+  "DickensonRd-AdigasJunc": {
+    "lat": 12.9796588,
+    "lng": 77.613821,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "DoddaballapuraCrossJunc": {
+    "lat": 13.2572593,
+    "lng": 77.7127351,
+    "max_distance_km": 0.07879260868884434,
+    "approximate_location": false
+  },
+  "DomlurWaterTank": {
+    "lat": 12.96116525,
+    "lng": 77.638886,
+    "max_distance_km": 0.45784554449834175,
+    "approximate_location": false
+  },
+  "Dr RajkumarRd-10thCrossRdJunc": {
+    "lat": 13.0083617,
+    "lng": 77.5544196,
+    "max_distance_km": 0.7670579070270479,
+    "approximate_location": false
+  },
+  "Dr TCM RoyanRd near AmbedkarStatue": {
+    "lat": 12.9651619,
+    "lng": 77.5681699,
+    "max_distance_km": 0.4093052838487971,
+    "approximate_location": false
+  },
+  "ESI(k r puram)": {
+    "lat": 12.9930024,
+    "lng": 77.7063512,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "ElectronicCityGate-2Junc": {
+    "lat": 12.8551517,
+    "lng": 77.6651842,
+    "max_distance_km": 0.4612338155694259,
+    "approximate_location": false
+  },
+  "EliteJunc": {
+    "lat": 12.97575035,
+    "lng": 77.57510825,
+    "max_distance_km": 0.24096845607918402,
+    "approximate_location": false
+  },
+  "FTI Junction(KanteeravaStudio)": {
+    "lat": 13.0210894,
+    "lng": 77.5318817,
+    "max_distance_km": 0.6198103108983768,
+    "approximate_location": false
+  },
+  "Fire Force Junction": {
+    "lat": 12.98076095,
+    "lng": 77.5495049,
+    "max_distance_km": 0.04683492752884368,
+    "approximate_location": false
+  },
+  "GangammagudiJunc": {
+    "lat": 13.0567354,
+    "lng": 77.54666705,
+    "max_distance_km": 0.08994060965932693,
+    "approximate_location": false
+  },
+  "GarebhavipalyaJunc": {
+    "lat": 12.8945629,
+    "lng": 77.63653245,
+    "max_distance_km": 0.29645048614236713,
+    "approximate_location": false
+  },
+  "Geeta Circle": {
+    "lat": 12.9285748,
+    "lng": 77.5861157,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "Geethanjali jn": {
+    "lat": 13.002918300000001,
+    "lng": 77.57109990000001,
+    "max_distance_km": 0.11698400263996471,
+    "approximate_location": false
+  },
+  "GokuldasImagesJunc": {
+    "lat": 13.03023215,
+    "lng": 77.53699345000001,
+    "max_distance_km": 0.4433046507718863,
+    "approximate_location": false
+  },
+  "GopalGowdaJUnc": {
+    "lat": 12.9787147,
+    "lng": 77.5912522,
+    "max_distance_km": 0.14153376751649543,
+    "approximate_location": false
+  },
+  "GorappanapalyaJunction": {
+    "lat": 12.920906,
+    "lng": 77.6002661,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "GoruguntepalyaJunc": {
+    "lat": 13.0291663,
+    "lng": 77.5402194,
+    "max_distance_km": 0.45574816593080286,
+    "approximate_location": false
+  },
+  "GovindapuraCross": {
+    "lat": 13.032092,
+    "lng": 77.6216355,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "GowdanapalyaJunction": {
+    "lat": 12.9135866,
+    "lng": 77.5590245,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "HSR14thMainJunc": {
+    "lat": 12.9183015,
+    "lng": 77.63809397,
+    "max_distance_km": 0.41606540065477043,
+    "approximate_location": false
+  },
+  "HainsJunc": {
+    "lat": 12.99413665,
+    "lng": 77.6063921,
+    "max_distance_km": 0.23263239712356157,
+    "approximate_location": false
+  },
+  "HalliThindi": {
+    "lat": 12.9439816,
+    "lng": 77.5679238,
+    "max_distance_km": 0.02874388853773514,
+    "approximate_location": false
+  },
+  "HebbalFlyoverJunc": {
+    "lat": 13.04236735,
+    "lng": 77.59067465000001,
+    "max_distance_km": 0.5219500570131618,
+    "approximate_location": false
+  },
+  "HennurRd-DavisRdJunction": {
+    "lat": 13.003096034999999,
+    "lng": 77.620384175,
+    "max_distance_km": 0.1947314083398902,
+    "approximate_location": false
+  },
+  "HennurRoad-ORR Junc": {
+    "lat": 13.0289016,
+    "lng": 77.6315961,
+    "max_distance_km": 0.34376480964266704,
+    "approximate_location": false
+  },
+  "HesaraghattaJunction": {
+    "lat": 13.0454633,
+    "lng": 77.5076621,
+    "max_distance_km": 0.3958697593734501,
+    "approximate_location": false
+  },
+  "HoodiJunction": {
+    "lat": 12.99232115,
+    "lng": 77.71595880000001,
+    "max_distance_km": 0.33880227499078946,
+    "approximate_location": false
+  },
+  "HopefarmJunction": {
+    "lat": 12.98418315,
+    "lng": 77.7524423,
+    "max_distance_km": 0.4330097909049488,
+    "approximate_location": false
+  },
+  "HoramavuJunction": {
+    "lat": 13.018956849999999,
+    "lng": 77.65629645,
+    "max_distance_km": 0.3882759207885277,
+    "approximate_location": false
+  },
+  "HosmatJunction": {
+    "lat": 12.9683891,
+    "lng": 77.6143516,
+    "max_distance_km": 0.03996211479172903,
+    "approximate_location": false
+  },
+  "HudsonCircle": {
+    "lat": 12.9677656,
+    "lng": 77.5908526,
+    "max_distance_km": 0.30456109724129576,
+    "approximate_location": false
+  },
+  "HulimaveRd-BanneraghattaRdJunc": {
+    "lat": 12.881902,
+    "lng": 77.5958795,
+    "max_distance_km": 0.3170556248361654,
+    "approximate_location": false
+  },
+  "HunsemarammanahalliJunction": {
+    "lat": 13.1404344,
+    "lng": 77.617685,
+    "max_distance_km": 0.6563709884743258,
+    "approximate_location": false
+  },
+  "ISRO Junction-Airport rd": {
+    "lat": 12.9592633,
+    "lng": 77.6551777,
+    "max_distance_km": 0.25340407201542514,
+    "approximate_location": false
+  },
+  "ISRO Junction-NewBEL Rd": {
+    "lat": 13.0351175,
+    "lng": 77.5677308,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "IbblurJunction'": {
+    "lat": 12.9215257,
+    "lng": 77.6648697,
+    "max_distance_km": 0.48691485174123167,
+    "approximate_location": false
+  },
+  "IndianExpressJunction": {
+    "lat": 12.983800800000001,
+    "lng": 77.5970206,
+    "max_distance_km": 0.4048863459443468,
+    "approximate_location": false
+  },
+  "Indiranasgar13thMainJunc": {
+    "lat": 12.966776190000001,
+    "lng": 77.641548645,
+    "max_distance_km": 0.20011866275987591,
+    "approximate_location": false
+  },
+  "ItmaduJunction": {
+    "lat": 12.92811485,
+    "lng": 77.54624035,
+    "max_distance_km": 0.2449476293859187,
+    "approximate_location": false
+  },
+  "J D MaraJunc": {
+    "lat": 12.9073043,
+    "lng": 77.6008947,
+    "max_distance_km": 0.2529138881681142,
+    "approximate_location": false
+  },
+  "JP Nagar 15th cross junction": {
+    "lat": 12.9060618,
+    "lng": 77.5856503,
+    "max_distance_km": 0.18657727674060523,
+    "approximate_location": false
+  },
+  "JP Nagar 9th cross-24th main jn": {
+    "lat": 12.9119511,
+    "lng": 77.5858317,
+    "max_distance_km": 0.1623582120529652,
+    "approximate_location": false
+  },
+  "JaiMuniRaoCircle": {
+    "lat": 12.9782935,
+    "lng": 77.54393771,
+    "max_distance_km": 0.47451432120234416,
+    "approximate_location": false
+  },
+  "Jaipuria-Adugodi": {
+    "lat": 12.9352619,
+    "lng": 77.62457665,
+    "max_distance_km": 0.16386465783117599,
+    "approximate_location": false
+  },
+  "JakkurCrossJunction": {
+    "lat": 13.0735301,
+    "lng": 77.59286565,
+    "max_distance_km": 0.3396842229446975,
+    "approximate_location": false
+  },
+  "JalahalliCross(SM Circle)": {
+    "lat": 13.040006250000001,
+    "lng": 77.5183112,
+    "max_distance_km": 0.21529029673421857,
+    "approximate_location": false
+  },
+  "JayadevaHospitalJunc": {
+    "lat": 12.916086100000001,
+    "lng": 77.59999110000001,
+    "max_distance_km": 0.4284363787572119,
+    "approximate_location": false
+  },
+  "Jayanagar 4th main,36th cross": {
+    "lat": 12.9225838,
+    "lng": 77.5803166,
+    "max_distance_km": 0.09583050711504239,
+    "approximate_location": false
+  },
+  "JohnsonMarket": {
+    "lat": 12.9619392,
+    "lng": 77.6065866,
+    "max_distance_km": 0.34857124774988363,
+    "approximate_location": false
+  },
+  "K G Junction": {
+    "lat": 12.9751381,
+    "lng": 77.5764764,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "K H Road-SiddaiahRdJunc(BMTC-BigBazaar)": {
+    "lat": 12.95269135,
+    "lng": 77.5909027,
+    "max_distance_km": 0.20050280814891647,
+    "approximate_location": false
+  },
+  "K R Circle": {
+    "lat": 12.97664795,
+    "lng": 77.5862027,
+    "max_distance_km": 0.2838407324965306,
+    "approximate_location": false
+  },
+  "K R MarketJunction": {
+    "lat": 12.9636022,
+    "lng": 77.5779542,
+    "max_distance_km": 0.2856027144719668,
+    "approximate_location": false
+  },
+  "KCG HospitalJunction": {
+    "lat": 12.99931805,
+    "lng": 77.57141139999999,
+    "max_distance_km": 0.01277941652092624,
+    "approximate_location": false
+  },
+  "KHB Junction": {
+    "lat": 12.9807626,
+    "lng": 77.5366494,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "KIMCO Junction": {
+    "lat": 12.9514517,
+    "lng": 77.5373979,
+    "max_distance_km": 0.5378257590294742,
+    "approximate_location": false
+  },
+  "KR Road-14thCross Junc": {
+    "lat": 12.929715,
+    "lng": 77.573648,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "KadirenahalliJunction": {
+    "lat": 12.9157951,
+    "lng": 77.56518925,
+    "max_distance_km": 0.3260948894147334,
+    "approximate_location": false
+  },
+  "Kadubeesanahalli-ORR Junc": {
+    "lat": 12.93878497,
+    "lng": 77.697052,
+    "max_distance_km": 0.5091668831129762,
+    "approximate_location": false
+  },
+  "KalyanNagar-ORR Junc": {
+    "lat": 13.02410705,
+    "lng": 77.6431594,
+    "max_distance_km": 0.46425982441438657,
+    "approximate_location": false
+  },
+  "KamakyaJunction": {
+    "lat": 12.9233939,
+    "lng": 77.5542916,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "Kammanahalli-RingRoadJunction": {
+    "lat": 13.02646995,
+    "lng": 77.63649985,
+    "max_distance_km": 0.16342252139489571,
+    "approximate_location": false
+  },
+  "KamrajRdJunction": {
+    "lat": 12.9772805,
+    "lng": 77.6087452,
+    "max_distance_km": 0.13880283397774493,
+    "approximate_location": false
+  },
+  "KanakapuraRd-RingRdJunction": {
+    "lat": 12.9061439,
+    "lng": 77.57330730000001,
+    "max_distance_km": 0.41698033370208654,
+    "approximate_location": false
+  },
+  "KarnatakaBhavanJunction": {
+    "lat": 12.9818439,
+    "lng": 77.56439384500001,
+    "max_distance_km": 0.26637122658697027,
+    "approximate_location": false
+  },
+  "KatriguppeJunction": {
+    "lat": 12.925256000000001,
+    "lng": 77.55020214999999,
+    "max_distance_km": 0.2459875766065472,
+    "approximate_location": false
+  },
+  "KensingtonOvalJunc": {
+    "lat": 12.9821285,
+    "lng": 77.6236031,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "KhodaysCircle(DV UrsCircle)": {
+    "lat": 12.9802583,
+    "lng": 77.5713868,
+    "max_distance_km": 0.195615043702203,
+    "approximate_location": false
+  },
+  "KodigehalliCross": {
+    "lat": 13.0546133,
+    "lng": 77.593432,
+    "max_distance_km": 0.7106373183110369,
+    "approximate_location": false
+  },
+  "KogilluCrossJunc": {
+    "lat": 13.1052067,
+    "lng": 77.6008869,
+    "max_distance_km": 0.5017395799999862,
+    "approximate_location": false
+  },
+  "KonanakunteJunction(KanakapurarRd)": {
+    "lat": 12.89013905,
+    "lng": 77.56398815,
+    "max_distance_km": 0.1496818547647938,
+    "approximate_location": false
+  },
+  "KoramangalaWaterTankJunc": {
+    "lat": 12.9274814,
+    "lng": 77.6212365,
+    "max_distance_km": 0.2514554253391301,
+    "approximate_location": false
+  },
+  "KrishnaFlourMill": {
+    "lat": 12.984708,
+    "lng": 77.572661,
+    "max_distance_km": 0.24442593435825286,
+    "approximate_location": false
+  },
+  "Krupanidhi College": {
+    "lat": 12.9247775,
+    "lng": 77.6280755,
+    "max_distance_km": 0.2873658388723239,
+    "approximate_location": false
+  },
+  "Kudlu Gate Junc": {
+    "lat": 12.8891573,
+    "lng": 77.63961979999999,
+    "max_distance_km": 0.24735139607703785,
+    "approximate_location": false
+  },
+  "KundanahalliGateJunc": {
+    "lat": 12.955746340000001,
+    "lng": 77.71664758,
+    "max_distance_km": 0.3164747294723997,
+    "approximate_location": false
+  },
+  "KuvempuCircle": {
+    "lat": 13.0445056,
+    "lng": 77.5625478,
+    "max_distance_km": 0.318479948959136,
+    "approximate_location": false
+  },
+  "KuvempuCircleJunc,HAL MainGate": {
+    "lat": 12.958055,
+    "lng": 77.668315,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "LRDE Junction": {
+    "lat": 12.9874171,
+    "lng": 77.5878455,
+    "max_distance_km": 0.2449904950704196,
+    "approximate_location": false
+  },
+  "LalbaghMainGateJunc": {
+    "lat": 12.953966600000001,
+    "lng": 77.5854253,
+    "max_distance_km": 0.19193730682533686,
+    "approximate_location": false
+  },
+  "LalbaghWestGate": {
+    "lat": 12.9483534,
+    "lng": 77.5797302,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "LeprosyhospitalJunc": {
+    "lat": 12.9757531,
+    "lng": 77.56450785,
+    "max_distance_km": 0.4805517757779498,
+    "approximate_location": false
+  },
+  "LinkRoadMalleswaramJunc": {
+    "lat": 12.9928507,
+    "lng": 77.574254,
+    "max_distance_km": 0.07393160013471098,
+    "approximate_location": false
+  },
+  "LowerAgaram(IndiaGarage)Junc": {
+    "lat": 12.9654287,
+    "lng": 77.6176745,
+    "max_distance_km": 0.3508685106770777,
+    "approximate_location": false
+  },
+  "MC Circle": {
+    "lat": 12.97635565,
+    "lng": 77.5478463,
+    "max_distance_km": 0.25652904218047834,
+    "approximate_location": false
+  },
+  "MICO Bande": {
+    "lat": 12.944963399999999,
+    "lng": 77.60273075,
+    "max_distance_km": 0.40747137448299364,
+    "approximate_location": false
+  },
+  "MS RamaiahJunc(TollGate)": {
+    "lat": 13.0172915,
+    "lng": 77.5604211,
+    "max_distance_km": 0.33782066662828214,
+    "approximate_location": false
+  },
+  "MSRamaiahHospitalJunc": {
+    "lat": 13.0278807,
+    "lng": 77.5742038,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "MahalaxmiLayoutEntranceJunc": {
+    "lat": 13.0108338,
+    "lng": 77.5485942,
+    "max_distance_km": 0.3668987799563937,
+    "approximate_location": false
+  },
+  "MaharajaJunction": {
+    "lat": 12.93436245,
+    "lng": 77.6296954,
+    "max_distance_km": 0.013869598278842456,
+    "approximate_location": false
+  },
+  "Malleswaram18thCrossRd-SampigeRdJunc": {
+    "lat": 13.0084952,
+    "lng": 77.5717493,
+    "max_distance_km": 0.16389126952166314,
+    "approximate_location": false
+  },
+  "ManipalCentreJunc": {
+    "lat": 12.975913349999999,
+    "lng": 77.61298679999999,
+    "max_distance_km": 0.057439480875875144,
+    "approximate_location": false
+  },
+  "MaratahalliBridgeJunc": {
+    "lat": 12.9563571,
+    "lng": 77.70084374999999,
+    "max_distance_km": 0.5426072048738321,
+    "approximate_location": false
+  },
+  "MarenahalliRd-18thMainRdJunc": {
+    "lat": 12.9186031,
+    "lng": 77.58915404999999,
+    "max_distance_km": 0.1837848106869809,
+    "approximate_location": false
+  },
+  "MargosaRd-18thCrossJunc": {
+    "lat": 13.01148005,
+    "lng": 77.56936250000001,
+    "max_distance_km": 0.3092446294303209,
+    "approximate_location": false
+  },
+  "Marigowda-TavarkereRdJunc": {
+    "lat": 12.936279,
+    "lng": 77.6070675,
+    "max_distance_km": 0.4009218843451847,
+    "approximate_location": false
+  },
+  "MayohallJunction": {
+    "lat": 12.9733973,
+    "lng": 77.610582,
+    "max_distance_km": 0.2812950363963204,
+    "approximate_location": false
+  },
+  "MeenakshiMallJunc": {
+    "lat": 12.87686415,
+    "lng": 77.59523245,
+    "max_distance_km": 0.4374876353103687,
+    "approximate_location": false
+  },
+  "MekhriCircle": {
+    "lat": 13.0145694,
+    "lng": 77.5838793,
+    "max_distance_km": 0.4871764000027771,
+    "approximate_location": false
+  },
+  "MillCornerRd-SampigeRdJunc": {
+    "lat": 12.9920652,
+    "lng": 77.5714241,
+    "max_distance_km": 0.17823919434618432,
+    "approximate_location": false
+  },
+  "Minerva Circle": {
+    "lat": 12.9549542,
+    "lng": 77.58042775,
+    "max_distance_km": 0.013701842827168766,
+    "approximate_location": false
+  },
+  "MinskSquare(CTO Junction)": {
+    "lat": 12.982029350000001,
+    "lng": 77.59719125000001,
+    "max_distance_km": 0.29322995796286055,
+    "approximate_location": false
+  },
+  "MintoJunction": {
+    "lat": 12.9603495,
+    "lng": 77.5718749,
+    "max_distance_km": 0.1422287082592926,
+    "approximate_location": false
+  },
+  "ModiBridgeJunction": {
+    "lat": 12.9994047,
+    "lng": 77.5499404,
+    "max_distance_km": 0.2092927426495458,
+    "approximate_location": false
+  },
+  "ModiHospital": {
+    "lat": 12.9975256,
+    "lng": 77.5470383,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "MotherTeressaCircle": {
+    "lat": 12.9666771,
+    "lng": 77.609077,
+    "max_distance_km": 0.12832775436234703,
+    "approximate_location": false
+  },
+  "MysoreRd--MadhuPetrolBunkJunction": {
+    "lat": 12.912056,
+    "lng": 77.4854739,
+    "max_distance_km": 0.0932322049112528,
+    "approximate_location": false
+  },
+  "MysoreRd-RingRdJunc(Nayandanahallii)": {
+    "lat": 12.94503269,
+    "lng": 77.52738,
+    "max_distance_km": 0.3696839739098258,
+    "approximate_location": false
+  },
+  "N R SquareJunc": {
+    "lat": 12.965364600000001,
+    "lng": 77.58665020000001,
+    "max_distance_km": 0.09173422497914505,
+    "approximate_location": false
+  },
+  "NCERT Junction": {
+    "lat": 12.9318961,
+    "lng": 77.5445289,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "NGV RearGateJunc": {
+    "lat": 12.9424581,
+    "lng": 77.62256595,
+    "max_distance_km": 0.022921443029247982,
+    "approximate_location": false
+  },
+  "NIMHANS Junction": {
+    "lat": 12.94019295,
+    "lng": 77.5976671,
+    "max_distance_km": 0.249688368637728,
+    "approximate_location": false
+  },
+  "NTTF JunctionPeenya": {
+    "lat": 13.0248685,
+    "lng": 77.51113294999999,
+    "max_distance_km": 0.010249668860457544,
+    "approximate_location": false
+  },
+  "NagaTheaterJunc-Ulsoor": {
+    "lat": 12.9897527,
+    "lng": 77.6180398,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "NaganathapuraJunction": {
+    "lat": 12.8697949,
+    "lng": 77.65323985,
+    "max_distance_km": 0.41601877633731216,
+    "approximate_location": false
+  },
+  "Nagarbhavi": {
+    "lat": 12.9588379,
+    "lng": 77.518291,
+    "max_distance_km": 0.5112647157843533,
+    "approximate_location": false
+  },
+  "Nagavara-ORR Junction": {
+    "lat": 13.04020765,
+    "lng": 77.62431753,
+    "max_distance_km": 0.45324711950096086,
+    "approximate_location": false
+  },
+  "NandiCross(RaniCross)": {
+    "lat": 13.2645011,
+    "lng": 77.7187932,
+    "max_distance_km": 0.32283544994261976,
+    "approximate_location": false
+  },
+  "Narayanapura cross, Hegde nagar": {
+    "lat": 13.0705405,
+    "lng": 77.6336631,
+    "max_distance_km": 0.30819702594595444,
+    "approximate_location": false
+  },
+  "NationalCollege": {
+    "lat": 12.9516353,
+    "lng": 77.5736202,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "NavarangBarJunc-Dr RajkumarRd": {
+    "lat": 12.9878558,
+    "lng": 77.5597174,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "NavarangTheatreJunction": {
+    "lat": 12.9981203,
+    "lng": 77.5527276,
+    "max_distance_km": 0.013021836640491672,
+    "approximate_location": false
+  },
+  "OldMadrasRd-80FeetRdJunc": {
+    "lat": 12.9859871,
+    "lng": 77.64543805,
+    "max_distance_km": 0.15762946459154972,
+    "approximate_location": false
+  },
+  "OldMadrasRd-BMTC DepotJunc": {
+    "lat": 12.9825565,
+    "lng": 77.6353914,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "OldMadrasRd-DoubleRdJunc": {
+    "lat": 12.98267965,
+    "lng": 77.63770496,
+    "max_distance_km": 0.0997298673358911,
+    "approximate_location": false
+  },
+  "OldMadrasRd-Indranagar100ftRdJunc": {
+    "lat": 12.9841487,
+    "lng": 77.6411007,
+    "max_distance_km": 0.16183059266447025,
+    "approximate_location": false
+  },
+  "OldMadrasRd-NGEF Junc": {
+    "lat": 12.98683175,
+    "lng": 77.6481603,
+    "max_distance_km": 0.13033598454958487,
+    "approximate_location": false
+  },
+  "OldMadrasRd-SuddaguntepalyaRdJunc": {
+    "lat": 12.9900878,
+    "lng": 77.654618,
+    "max_distance_km": 0.3152584387716785,
+    "approximate_location": false
+  },
+  "OldPoliceStation-Ashoknagar": {
+    "lat": 12.9681339,
+    "lng": 77.6062498,
+    "max_distance_km": 0.11011257909659196,
+    "approximate_location": false
+  },
+  "OperaHouseJunc": {
+    "lat": 12.97201435,
+    "lng": 77.606961,
+    "max_distance_km": 0.16890447265767616,
+    "approximate_location": false
+  },
+  "PES-DevegowdaCircle": {
+    "lat": 12.937031225,
+    "lng": 77.53317691,
+    "max_distance_km": 0.46177834644424326,
+    "approximate_location": false
+  },
+  "Peenya14thCrossJunc": {
+    "lat": 13.0166142,
+    "lng": 77.5054464,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "Peenya2ndStageBusStand": {
+    "lat": 13.009776500000001,
+    "lng": 77.50594505000001,
+    "max_distance_km": 0.007846049024531674,
+    "approximate_location": false
+  },
+  "PeenyaPoliceStation": {
+    "lat": 13.0375844,
+    "lng": 77.52220635,
+    "max_distance_km": 0.3783186828072196,
+    "approximate_location": false
+  },
+  "PlatformRdJunction": {
+    "lat": 12.9817415,
+    "lng": 77.57036,
+    "max_distance_km": 0.11864476428685662,
+    "approximate_location": false
+  },
+  "PoliceCornerJunc": {
+    "lat": 12.9680852,
+    "lng": 77.58720729999999,
+    "max_distance_km": 0.36357143002478187,
+    "approximate_location": false
+  },
+  "PoliceTimmaiahCircle(GPO)": {
+    "lat": 12.981998350000001,
+    "lng": 77.5945414,
+    "max_distance_km": 0.27776750547077506,
+    "approximate_location": false
+  },
+  "PotteryCircle": {
+    "lat": 13.0018933,
+    "lng": 77.6121721,
+    "max_distance_km": 0.2417637815672707,
+    "approximate_location": false
+  },
+  "PrasannaJunction": {
+    "lat": 12.975644509999999,
+    "lng": 77.55302895,
+    "max_distance_km": 0.2651985860765973,
+    "approximate_location": false
+  },
+  "PriyadarshiniHotel,Jayamahal,RT Nagar": {
+    "lat": 13.0010805,
+    "lng": 77.5947981,
+    "max_distance_km": 0.41879046117767743,
+    "approximate_location": false
+  },
+  "PurnimaTheaterJunc": {
+    "lat": 12.9603057,
+    "lng": 77.5875364,
+    "max_distance_km": 0.19763251708998242,
+    "approximate_location": false
+  },
+  "PuttammaChoultryNagarbhavi": {
+    "lat": 12.9756474,
+    "lng": 77.53791515,
+    "max_distance_km": 0.27371442767414567,
+    "approximate_location": false
+  },
+  "QueensStatueCircle": {
+    "lat": 12.9764557,
+    "lng": 77.5991126,
+    "max_distance_km": 0.11562522659931584,
+    "approximate_location": false
+  },
+  "RRR(Okalipuram)Junction": {
+    "lat": 12.982502199999999,
+    "lng": 77.56798025,
+    "max_distance_km": 0.09994584167095695,
+    "approximate_location": false
+  },
+  "Rajajinagagr1stBlockJunction": {
+    "lat": 13.00449865,
+    "lng": 77.54946015,
+    "max_distance_km": 0.08599348068194063,
+    "approximate_location": false
+  },
+  "Rajajinagar19thMainJunc": {
+    "lat": 12.9977769,
+    "lng": 77.55125585,
+    "max_distance_km": 0.06509626381024707,
+    "approximate_location": false
+  },
+  "RajajinagarEntranceJunction": {
+    "lat": 12.9829842,
+    "lng": 77.5603629,
+    "max_distance_km": 0.3821821840051979,
+    "approximate_location": false
+  },
+  "RajarajeshwariKalyanaMantapaJunc": {
+    "lat": 12.994492,
+    "lng": 77.5541902,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "RajeshwariJunc": {
+    "lat": 12.9365793,
+    "lng": 77.518811,
+    "max_distance_km": 0.5319471897731186,
+    "approximate_location": false
+  },
+  "RamaiahCircle-UlsoorPoliceStation": {
+    "lat": 12.9757906,
+    "lng": 77.6262856,
+    "max_distance_km": 0.39811828996960774,
+    "approximate_location": false
+  },
+  "RamamurthyNagarJunction": {
+    "lat": 13.0167887,
+    "lng": 77.6610443,
+    "max_distance_km": 0.6692688180147355,
+    "approximate_location": false
+  },
+  "Richmond circle jn": {
+    "lat": 12.9643483,
+    "lng": 77.5962145,
+    "max_distance_km": 0.37715243337280685,
+    "approximate_location": false
+  },
+  "Ring road-Near Kengunte Junction": {
+    "lat": 12.9593713,
+    "lng": 77.5039086,
+    "max_distance_km": 0.20385148951421989,
+    "approximate_location": false
+  },
+  "RingRoad-UllalJunction": {
+    "lat": 12.9516567,
+    "lng": 77.4995444,
+    "max_distance_km": 0.29357225415839244,
+    "approximate_location": false
+  },
+  "RoyanCircle-Chamrajpete": {
+    "lat": 12.9624886,
+    "lng": 77.5656329,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "SRS Peenya Junc": {
+    "lat": 13.0346029,
+    "lng": 77.52987795,
+    "max_distance_km": 0.3924419036233188,
+    "approximate_location": false
+  },
+  "SadahalliGateJunc(AirportRd)": {
+    "lat": 13.1908827,
+    "lng": 77.6458767,
+    "max_distance_km": 0.06684441439019304,
+    "approximate_location": false
+  },
+  "SadashivnagarJunc": {
+    "lat": 13.0146372,
+    "lng": 77.572703,
+    "max_distance_km": 0.47459106641173965,
+    "approximate_location": false
+  },
+  "SafinaPlazaJunc": {
+    "lat": 12.9801409,
+    "lng": 77.6074116,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "SagarHospitalJunc": {
+    "lat": 12.9289166,
+    "lng": 77.6003272,
+    "max_distance_km": 0.3694823337656283,
+    "approximate_location": false
+  },
+  "SagarTheatreJunc": {
+    "lat": 12.9743459,
+    "lng": 77.578679,
+    "max_distance_km": 0.27805796038007397,
+    "approximate_location": false
+  },
+  "SandeepUnnikrishnan-Yelhanka": {
+    "lat": 13.10146005,
+    "lng": 77.58632095,
+    "max_distance_km": 0.44328320437902125,
+    "approximate_location": false
+  },
+  "SantheCircle": {
+    "lat": 13.0977513,
+    "lng": 77.5978107,
+    "max_distance_km": 0.472027576010828,
+    "approximate_location": false
+  },
+  "SarjapurRd-St JohnsRdJunc": {
+    "lat": 12.927597899999999,
+    "lng": 77.6159421,
+    "max_distance_km": 0.28870017342960363,
+    "approximate_location": false
+  },
+  "SatteliteBusStandJunc": {
+    "lat": 12.953795,
+    "lng": 77.5433473,
+    "max_distance_km": 0.45941012595757336,
+    "approximate_location": false
+  },
+  "ShankarMuttCircle": {
+    "lat": 12.99892,
+    "lng": 77.5410733,
+    "max_distance_km": 0.11431249244900807,
+    "approximate_location": false
+  },
+  "ShantalaJunction": {
+    "lat": 12.9747553,
+    "lng": 77.570277,
+    "max_distance_km": 0.2431578604882657,
+    "approximate_location": false
+  },
+  "ShivajiTalkiesJunc": {
+    "lat": 12.9633032,
+    "lng": 77.5819049,
+    "max_distance_km": 0.3724199843149078,
+    "approximate_location": false
+  },
+  "Shivajinagar(BRV)Junction": {
+    "lat": 12.9792575,
+    "lng": 77.6026803,
+    "max_distance_km": 0.45389118876999185,
+    "approximate_location": false
+  },
+  "ShivanahalliJunctionWOC": {
+    "lat": 12.9900396,
+    "lng": 77.5505643,
+    "max_distance_km": 0.09309762717975743,
+    "approximate_location": false
+  },
+  "ShivandaCircle": {
+    "lat": 12.987941450000001,
+    "lng": 77.57971505,
+    "max_distance_km": 0.27777782071181695,
+    "approximate_location": false
+  },
+  "Shivashankara circle": {
+    "lat": 12.9580524,
+    "lng": 77.5739029,
+    "max_distance_km": 0.15951185947915916,
+    "approximate_location": false
+  },
+  "SiddalingaiahCircle": {
+    "lat": 12.9717154,
+    "lng": 77.59418455,
+    "max_distance_km": 0.37036050930781383,
+    "approximate_location": false
+  },
+  "SiddapuraJunction": {
+    "lat": 12.9493392,
+    "lng": 77.5943794,
+    "max_distance_km": 0.35846774974902645,
+    "approximate_location": false
+  },
+  "SilkBoardJunc": {
+    "lat": 12.9166927,
+    "lng": 77.6232459,
+    "max_distance_km": 0.5174513845370053,
+    "approximate_location": false
+  },
+  "SindhiColonyJunction": {
+    "lat": 12.994696,
+    "lng": 77.6159391,
+    "max_distance_km": 0.30615883261011423,
+    "approximate_location": false
+  },
+  "SirsiCircle": {
+    "lat": 12.9613113,
+    "lng": 77.5594103,
+    "max_distance_km": 0.3885203490893655,
+    "approximate_location": false
+  },
+  "SonyworldJunction": {
+    "lat": 12.9371547,
+    "lng": 77.6273316,
+    "max_distance_km": 0.12882330574939008,
+    "approximate_location": false
+  },
+  "South end circle": {
+    "lat": 12.93726,
+    "lng": 77.57974,
+    "max_distance_km": 0.15530718782987843,
+    "approximate_location": false
+  },
+  "Srigandakaval": {
+    "lat": 12.988537050000001,
+    "lng": 77.50953595,
+    "max_distance_km": 0.687391303113359,
+    "approximate_location": false
+  },
+  "Srinivagilu(Ejipura)Junc": {
+    "lat": 12.938715349999999,
+    "lng": 77.63456725,
+    "max_distance_km": 0.1500491062954993,
+    "approximate_location": false
+  },
+  "StateBankofMysoreJunc": {
+    "lat": 12.973564849999999,
+    "lng": 77.58229739999999,
+    "max_distance_km": 0.31103345205550226,
+    "approximate_location": false
+  },
+  "SubbannaJunction": {
+    "lat": 12.9832805,
+    "lng": 77.5768463,
+    "max_distance_km": 0.2988416295212876,
+    "approximate_location": false
+  },
+  "SubedarChatramRd near SheshadripuramPS": {
+    "lat": 12.9871411,
+    "lng": 77.5739577,
+    "max_distance_km": 0.3544388045375096,
+    "approximate_location": false
+  },
+  "Sumanhalli": {
+    "lat": 12.98691135,
+    "lng": 77.52011135000001,
+    "max_distance_km": 0.45485214585455247,
+    "approximate_location": false
+  },
+  "SwagathMainRd-EastEndRdJunc": {
+    "lat": 12.92727815,
+    "lng": 77.59705165,
+    "max_distance_km": 0.0935456897917716,
+    "approximate_location": false
+  },
+  "TC Palya-OM RoadJunc": {
+    "lat": 13.0176589,
+    "lng": 77.7061179,
+    "max_distance_km": 0.2754655479990484,
+    "approximate_location": false
+  },
+  "TVS CrossJunction": {
+    "lat": 13.0283245,
+    "lng": 77.5191569,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "TamarikannanJunc": {
+    "lat": 12.9813476,
+    "lng": 77.6285708,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "TataInstituteCircle": {
+    "lat": 13.0141278,
+    "lng": 77.56586585,
+    "max_distance_km": 0.3923013152220547,
+    "approximate_location": false
+  },
+  "ThomasCafe-New": {
+    "lat": 12.9905937,
+    "lng": 77.6138551,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "TownhallJunction": {
+    "lat": 12.963777799999999,
+    "lng": 77.5842427,
+    "max_distance_km": 0.20682298810988903,
+    "approximate_location": false
+  },
+  "Trilight Circle,Race course Road": {
+    "lat": 12.9843622,
+    "lng": 77.582986,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "TrinityCircle": {
+    "lat": 12.9720341,
+    "lng": 77.6194831,
+    "max_distance_km": 0.12498114666182927,
+    "approximate_location": false
+  },
+  "TumkurRdMarappanapalyaJunc": {
+    "lat": 13.01907235,
+    "lng": 77.55333325000001,
+    "max_distance_km": 0.42699611300315005,
+    "approximate_location": false
+  },
+  "TyagiHengalvarayaJunc(DickensonRd)": {
+    "lat": 12.9814934,
+    "lng": 77.6085237,
+    "max_distance_km": 0.3265851064281314,
+    "approximate_location": false
+  },
+  "UCO Bank(Forum)": {
+    "lat": 12.933905,
+    "lng": 77.612605,
+    "max_distance_km": 0.08393062426021655,
+    "approximate_location": false
+  },
+  "UlsoorGateJunc": {
+    "lat": 12.966898950000001,
+    "lng": 77.58733035,
+    "max_distance_km": 0.09283804224407326,
+    "approximate_location": false
+  },
+  "UniversityJunc(Janabharti)": {
+    "lat": 12.93572855,
+    "lng": 77.5127367,
+    "max_distance_km": 0.3499480310371077,
+    "approximate_location": false
+  },
+  "Unknown": {
+    "lat": 12.9870566,
+    "lng": 77.58946,
+    "max_distance_km": 34.233590236693765,
+    "approximate_location": true
+  },
+  "UpparpetJunction": {
+    "lat": 12.9743854,
+    "lng": 77.5747985,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "UrvashiJunction": {
+    "lat": 12.9556235,
+    "lng": 77.58573455,
+    "max_distance_km": 0.053649180225939695,
+    "approximate_location": false
+  },
+  "UttarahalliJunction": {
+    "lat": 12.906656470000001,
+    "lng": 77.54510827,
+    "max_distance_km": 0.48346241873572043,
+    "approximate_location": false
+  },
+  "VeerannapalyaJunction(BEL,HO)": {
+    "lat": 13.0416234,
+    "lng": 77.6135233,
+    "max_distance_km": 0.4473671531954979,
+    "approximate_location": false
+  },
+  "VeerasandraGateJunction": {
+    "lat": 12.8401809,
+    "lng": 77.6770241,
+    "max_distance_km": 0.41580880502507744,
+    "approximate_location": false
+  },
+  "VetenaryHospitalJunc-Shivajinagar": {
+    "lat": 12.9890859,
+    "lng": 77.59903425,
+    "max_distance_km": 0.4392789476981096,
+    "approximate_location": false
+  },
+  "VijayanagarBusStandJunction": {
+    "lat": 12.97316185,
+    "lng": 77.53905950000001,
+    "max_distance_km": 0.33574958113000897,
+    "approximate_location": false
+  },
+  "WebbsCircle": {
+    "lat": 12.9738007,
+    "lng": 77.6140393,
+    "max_distance_km": 0.13011440629231744,
+    "approximate_location": false
+  },
+  "WilsonGarden10thCrossJunc": {
+    "lat": 12.946068635,
+    "lng": 77.59552605,
+    "max_distance_km": 0.07265093155253714,
+    "approximate_location": false
+  },
+  "WilsonGarden12thCrossJunc": {
+    "lat": 12.9447628,
+    "lng": 77.59711035000001,
+    "max_distance_km": 0.20186679991933762,
+    "approximate_location": false
+  },
+  "WiproJunc-Koramangala": {
+    "lat": 12.9297671,
+    "lng": 77.6330898,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "YediyurMeternityHospital": {
+    "lat": 12.9267084,
+    "lng": 77.577034,
+    "max_distance_km": 0,
+    "approximate_location": false
+  },
+  "YelhankaBypass": {
+    "lat": 13.0829798,
+    "lng": 77.5935494,
+    "max_distance_km": 0.5862585459811958,
+    "approximate_location": false
+  },
+  "YelhankaCircle": {
+    "lat": 13.0943458,
+    "lng": 77.59664889999999,
+    "max_distance_km": 0.6891997981762444,
+    "approximate_location": false
+  },
+  "Yemalur cross junc": {
+    "lat": 12.95601045,
+    "lng": 77.6938131,
+    "max_distance_km": 0.14035526827275593,
+    "approximate_location": false
+  },
+  "YeshwanthpuraCircle": {
+    "lat": 13.01784565,
+    "lng": 77.55689925,
+    "max_distance_km": 0.26896321311535837,
+    "approximate_location": false
+  },
+  "toll gate mysore road": {
+    "lat": 12.9574666,
+    "lng": 77.5519898,
+    "max_distance_km": 0.4094720184268839,
+    "approximate_location": false
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "Airport New South Road": {
+    "morning": 48,
+    "afternoon": 22,
+    "evening": 25,
+    "night_peak": 90,
+    "late_night": 90
+  },
+  "Bannerghata Road": {
+    "morning": 61,
+    "afternoon": 25,
+    "evening": 25,
+    "night_peak": 90,
+    "late_night": 74
+  },
+  "Bellary Road 1": {
+    "morning": 57,
+    "afternoon": 25,
+    "evening": 27,
+    "night_peak": 67,
+    "late_night": 90
+  },
+  "Bellary Road 2": {
+    "morning": 54,
+    "afternoon": 25,
+    "evening": 28,
+    "night_peak": 68,
+    "late_night": 90
+  },
+  "CBD 1": {
+    "morning": 25,
+    "afternoon": 5,
+    "evening": 5,
+    "night_peak": 64,
+    "late_night": 90
+  },
+  "CBD 2": {
+    "morning": 25,
+    "afternoon": -12,
+    "evening": -12,
+    "night_peak": 76,
+    "late_night": 90
+  },
+  "Hennur Main Road": {
+    "morning": 25,
+    "afternoon": 3,
+    "evening": 3,
+    "night_peak": 49,
+    "late_night": 90
+  },
+  "Hosur Road": {
+    "morning": 63,
+    "afternoon": 25,
+    "evening": 32,
+    "night_peak": 69,
+    "late_night": 90
+  },
+  "IRR(Thanisandra road)": {
+    "morning": 45,
+    "afternoon": 25,
+    "evening": 23,
+    "night_peak": 80,
+    "late_night": 90
+  },
+  "Magadi Road": {
+    "morning": 61,
+    "afternoon": 24,
+    "evening": 25,
+    "night_peak": 62,
+    "late_night": 90
+  },
+  "Mysore Road": {
+    "morning": 58,
+    "afternoon": 25,
+    "evening": 28,
+    "night_peak": 73,
+    "late_night": 90
+  },
+  "Non-corridor": {
+    "morning": 63,
+    "afternoon": 25,
+    "evening": 26,
+    "night_peak": 76,
+    "late_night": 90
+  },
+  "ORR East 1": {
+    "morning": 64,
+    "afternoon": 25,
+    "evening": 35,
+    "night_peak": 90,
+    "late_night": 87
+  },
+  "ORR East 2": {
+    "morning": 25,
+    "afternoon": 19,
+    "evening": 26,
+    "night_peak": 90,
+    "late_night": 39
+  },
+  "ORR North 1": {
+    "morning": 50,
+    "afternoon": 25,
+    "evening": 28,
+    "night_peak": 79,
+    "late_night": 90
+  },
+  "ORR North 2": {
+    "morning": 45,
+    "afternoon": 25,
+    "evening": 30,
+    "night_peak": 55,
+    "late_night": 90
+  },
+  "ORR West 1": {
+    "morning": 56,
+    "afternoon": 25,
+    "evening": 24,
+    "night_peak": 90,
+    "late_night": 88
+  },
+  "Old Airport Road": {
+    "morning": 44,
+    "afternoon": 25,
+    "evening": -4,
+    "night_peak": 64,
+    "late_night": 90
+  },
+  "Old Madras Road": {
+    "morning": 54,
+    "afternoon": 25,
+    "evening": 28,
+    "night_peak": 80,
+    "late_night": 90
+  },
+  "Tumkur Road": {
+    "morning": 50,
+    "afternoon": 25,
+    "evening": 30,
+    "night_peak": 67,
+    "late_night": 90
+  },
+  "Varthur Road": {
+    "morning": 79,
+    "afternoon": 25,
+    "evening": 33,
+    "night_peak": 87,
+    "late_night": 90
+  },
+  "West of Chord Road": {
+    "morning": 58,
+    "afternoon": 25,
+    "evening": 26,
+    "night_peak": 75,
+    "late_night": 90
+  }
+}

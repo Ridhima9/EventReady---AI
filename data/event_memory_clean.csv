@@ -1,0 +1,232 @@
+timestamp,event_cause,corridor,junction,hour_bucket,outcome,readiness_score
+2026-06-19 16:15:52,accident,Hosur Road,Silk Board,evening_peak,understaffed,68.0
+2026-06-20 18:15:52,accident,Hosur Road,Silk Board,evening_peak,understaffed,71.0
+2026-06-21 08:15:52,water_logging,Outer Ring Road,Marathahalli,morning_peak,sufficient,85.0
+2026-06-21 15:15:52,vehicle_breakdown,Mysore Road,Kengeri TTMC,afternoon,sufficient,45.0
+2026-06-21 19:30:52,accident,Hosur Road,Silk Board,morning_peak,understaffed,65.0
+2026-06-21 20:21:44,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-21 20:21:44,water_logging,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-21 20:24:37,water_logging,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-21 20:30:50,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-21 20:30:50,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-21 20:31:00,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-21 20:31:00,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-21 20:39:40,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-21 20:44:02,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-21 20:44:02,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-21 20:44:29,water_logging,ORR North 2,Arbindo Circle,afternoon,understaffed,
+2026-06-21 20:51:44,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-21 20:51:44,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-21 22:39:04,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-21 22:39:04,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-21 22:39:27,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-21 22:39:49,construction,CBD 2,ASC Junction,afternoon,understaffed,
+2026-06-21 22:40:12,construction,CBD 2,ASC Junction,late_night,understaffed,
+2026-06-21 22:40:26,construction,CBD 2,28thMainJayanagarJunc,afternoon,understaffed,
+2026-06-21 22:41:27,construction,CBD 2,28thMainJayanagarJunc,afternoon,understaffed,
+2026-06-21 22:42:19,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-21 22:42:19,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-21 22:42:44,procession,Non-corridor,17th Mn 1st Crs Aishwarya Stores Jn,afternoon,understaffed,
+2026-06-21 22:43:10,procession,Non-corridor,17th Mn 1st Crs Aishwarya Stores Jn,afternoon,understaffed,
+2026-06-21 22:45:51,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-21 22:45:51,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-21 23:57:26,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-21 23:57:26,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-21 23:57:48,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,sufficient,59.0
+2026-06-21 23:58:17,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,sufficient,59.0
+2026-06-21 23:58:19,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,overstaffed,59.0
+2026-06-22 00:01:58,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-22 00:01:58,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-22 00:02:21,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22 02:50:24,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-22 02:50:24,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22 02:50:24,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-22 02:50:24,vehicle_breakdown,Bellary Road 2,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22 02:50:24,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22 02:50:24,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22 02:50:24,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22 02:51:42,vehicle_breakdown,Bellary Road 2,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22 02:51:42,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22 02:51:42,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22 02:51:42,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-22 02:51:42,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22 02:51:42,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-22 02:51:42,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22 02:51:42,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-22 02:51:42,vehicle_breakdown,Bellary Road 2,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22 02:51:42,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22 02:51:42,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22 02:51:42,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22 02:51:42,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-22 02:51:42,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22 02:51:42,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-22 02:51:46,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22 02:51:46,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22 02:51:46,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22 02:51:46,vehicle_breakdown,Bellary Road 2,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22 02:51:46,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22 02:51:46,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22 03:55:31,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,sufficient,59.0
+2026-06-22 03:55:37,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-22 03:55:37,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-22 03:55:42,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22 03:55:42,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22 03:55:42,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22 03:55:42,vehicle_breakdown,Bellary Road 2,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22 03:55:42,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22 03:55:43,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22 03:55:43,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22 03:55:43,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22 03:55:43,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22 03:56:29,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-22 03:56:29,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-22 03:56:29,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22 03:56:29,vehicle_breakdown,Bellary Road 2,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22 03:56:29,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22 03:56:29,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22 03:56:29,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22 03:56:29,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22 03:56:29,vehicle_breakdown,Bellary Road 2,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22 03:56:29,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22 03:56:29,vehicle_breakdown,Bellary Road 2,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22 03:56:29,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-22 03:56:29,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22 03:56:29,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22 03:56:29,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22 03:56:29,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22 03:56:29,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22 03:56:29,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-22 03:56:29,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22 03:56:29,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22 03:56:29,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22 03:56:29,vehicle_breakdown,Bellary Road 2,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22 03:56:29,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22 03:56:29,vehicle_breakdown,Bellary Road 2,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22 03:56:29,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22 03:56:29,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22 03:56:29,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-22 03:56:34,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22 03:56:34,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22 03:56:34,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22 03:56:34,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22 03:56:34,vehicle_breakdown,Bellary Road 2,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22 03:56:35,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22 03:56:35,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22 03:56:35,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22 03:56:35,vehicle_breakdown,Bellary Road 2,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22 03:56:35,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22 04:00:28,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,morning,understaffed,
+2026-06-22 04:00:28,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22 04:00:28,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22 04:00:28,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22 04:00:28,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22 04:00:28,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22 04:00:28,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22 04:00:28,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22 04:00:28,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-22 04:00:28,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22 04:00:28,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-22T17:47:10,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22T17:47:10,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-22T17:47:10,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-22T17:47:52,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22T17:47:52,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-22T17:47:52,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-22T17:47:52,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22T17:47:52,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22T17:47:52,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22T17:47:53,vehicle_breakdown,Bellary Road 2,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22T17:47:53,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22T17:52:17,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22T17:52:17,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22T17:52:17,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22T17:52:17,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22T17:52:17,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-22T17:52:17,vehicle_breakdown,Bellary Road 2,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22T17:52:17,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+eak,understaffed,
+2026-06-22T17:53:49,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22T17:53:49,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22T17:53:49,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22T17:53:49,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22T17:53:49,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-22T17:53:49,vehicle_breakdown,Bellary Road 2,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22T17:53:49,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22T17:53:49,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-22T17:57:18,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22T17:57:18,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22T17:57:18,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22T17:57:18,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22T17:57:18,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22T17:57:18,vehicle_breakdown,Bellary Road 2,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22T17:57:18,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-22T17:57:18,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-22T17:59:26,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22T17:59:26,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22T17:59:26,congestion,Bannerghata Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22T17:59:26,accident,Airport New South Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22T17:59:26,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-22T17:59:26,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-22T17:59:26,vip_movement,CBD 1,5thMainHSR,evening,understaffed,
+2026-06-22T17:59:26,vehicle_breakdown,Bellary Road 2,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22T18:16:50,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-22T18:16:50,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-22T18:49:19,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22T18:49:19,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-22T18:49:19,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-22T18:49:44,construction,ORR North 2,Arbindo Circle,evening,understaffed,
+2026-06-22T18:49:49,accident,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22T18:49:49,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,
+2026-06-22T18:49:49,accident,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,
+2026-06-22T18:49:49,vehicle_breakdown,ORR East 1,29thMainRdBTM LayoutJunc,evening,understaffed,
+2026-06-22T18:49:49,vip_movement,Old Madras Road,5thMainHSR,evening,understaffed,
+2026-06-22T19:01:46,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,
+2026-06-22T19:01:46,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,
+2026-06-22T19:01:46,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,
+2026-06-23T12:40:40,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,70
+2026-06-23T12:40:48,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,70
+2026-06-23T12:40:48,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,82
+2026-06-23T12:40:48,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,58
+2026-06-23T12:40:52,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,71
+2026-06-23T12:40:52,accident,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,78
+2026-06-23T12:40:52,vehicle_breakdown,ORR East 1,29thMainRdBTM LayoutJunc,evening,understaffed,50
+2026-06-23T12:40:52,vip_movement,Old Madras Road,5thMainHSR,evening,understaffed,50
+2026-06-23T12:40:52,accident,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,62
+2026-06-23T12:49:05,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,70
+2026-06-23T12:49:05,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,82
+2026-06-23T12:49:05,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,58
+2026-06-23T12:50:36,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,82
+2026-06-23T12:50:36,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,70
+2026-06-23T12:50:36,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,58
+2026-06-23T12:51:44,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,82
+2026-06-23T12:51:44,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,70
+2026-06-23T12:51:44,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,58
+2026-06-23T12:54:28,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,82
+2026-06-23T12:54:28,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,70
+2026-06-23T12:54:28,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,58
+2026-06-23T12:54:42,water_logging,ORR East 2,Arbindo Circle,evening,understaffed,49
+2026-06-23T12:54:50,water_logging,ORR East 2,Arbindo Circle,morning,understaffed,39
+2026-06-23T13:52:11,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,58
+ak,understaffed,70
+2026-06-23T13:52:11,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,82
+2026-06-23T13:52:13,accident,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,65
+2026-06-23T13:52:13,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,71
+2026-06-23T13:52:13,accident,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,78
+2026-06-23T13:52:13,vehicle_breakdown,ORR East 1,29thMainRdBTM LayoutJunc,evening,understaffed,54
+2026-06-23T13:52:13,vip_movement,Old Madras Road,5thMainHSR,evening,understaffed,54
+2026-06-23T14:17:39,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,82
+2026-06-23T14:17:39,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,70
+2026-06-23T14:17:40,accident,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,78
+2026-06-23T14:17:40,accident,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,68
+2026-06-23T14:17:40,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,71
+2026-06-23T14:17:40,vip_movement,Old Madras Road,5thMainHSR,evening,understaffed,56
+2026-06-23T14:17:40,vehicle_breakdown,ORR East 1,29thMainRdBTM LayoutJunc,evening,understaffed,56
+2026-06-23T14:17:51,construction,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,82
+2026-06-23T14:17:52,vehicle_breakdown,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,night_peak,understaffed,70
+2026-06-23T14:17:52,accident,Bellary Road 1,28thMainJayanagarJunc,night_peak,understaffed,58
+2026-06-23T14:17:53,accident,Mysore Road,17th Mn 1st Crs Aishwarya Stores Jn,evening,understaffed,69
+2026-06-23T14:17:53,vip_movement,Old Madras Road,5thMainHSR,evening,understaffed,58
+2026-06-23T14:17:53,accident,Hosur Road,27th Cross Jayanagar(Ganapathi Temple),evening,understaffed,78
+2026-06-23T14:17:53,vehicle_breakdown,ORR East 1,29thMainRdBTM LayoutJunc,evening,understaffed,58
+2026-06-23T14:17:53,protest,Bellary Road 1,28thMainJayanagarJunc,evening,understaffed,71
+2026-06-23T17:19:09,accident,CBD 2,CoffeeBoardJunc,night_peak,sufficient,48

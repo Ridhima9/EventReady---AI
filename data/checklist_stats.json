@@ -1,0 +1,15 @@
+{
+  "hotspot_groups": 34,
+  "rule_counts": {
+    "Ensure sufficient lighting and visibility": 203,
+    "Alert BBMP road repair": 100,
+    "Pre-position tow truck": 98,
+    "Deploy drain-clearing team": 62,
+    "Verify diversion signage": 58,
+    "Dispatch ambulance & crane": 56,
+    "Assign extra officers at junction": 47,
+    "Deploy barricades at junction": 46,
+    "Call tree-cutting squad": 41,
+    "Assign crowd-control officers": 39
+  }
+}
