@@ -68,7 +68,7 @@ export default function App() {
   const switchView = async (v: View) => {
     if (v === 'demo') {
       try {
-        await fetch('http://localhost:8000/api/demo-seed', { method: 'POST' })
+        await fetch('https://eventready-ai.onrender.com/api/demo-seed', {method: 'POST'})
       } catch (e) {
         console.error('Failed to seed demo data', e)
       }

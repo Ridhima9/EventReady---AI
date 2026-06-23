@@ -1,6 +1,6 @@
 import type { AnalyticsStats, AssessRequest, AssessResponse, FormOptions, ImpactStats, LogRequest, TransparencyStats } from './types'
 
-const BASE_URL = 'http://localhost:8000'
+const BASE_URL = 'https://eventready-ai.onrender.com'
 
 export async function fetchOptions(): Promise<FormOptions> {
   const res = await fetch(`${BASE_URL}/api/options`)
